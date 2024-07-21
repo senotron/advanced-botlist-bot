@@ -6,42 +6,12 @@ Unlike other infrastructures, it was built in a much more advanced and high-qual
 
 Fill in the config.json and settings.json files accurately and correctly.
 
-### Gereksinimler
 
-Projeyi çalıştırmak için gerekli yazılım ve paketlerin listesi:
+## License
 
-- discord.js
-- Örnek 2
+This project shared under the following license: [MIT](URL)
 
-### Kurulum
-
-Projeyi çalıştırmak için adım adım kurulum talimatları:
-
-1. Adım 1
-2. Adım 2
-3. ...
-
-### Kullanım
-
-Projeyi nasıl kullanabileceğiniz hakkında bilgi:
-
-Örnek kullanım komutları veya kod blokları buraya gelebilir.
-
-## Katkıda Bulunma
-
-Eğer projeye katkıda bulunmak istiyorsanız, adımları takip edin:
-
-1. Fork'layın (`fork`) proje
-2. Yeni bir dal (`branch`) oluşturun
-3. Değişikliklerinizi yapın
-4. Dalınızı (`branch`) ana depoya (`repository`) gönderin (`push`)
-5. Bir Pull İsteği (`Pull Request`) açın
-
-## Lisans
-
-Bu proje şu lisans altında yayımlanmıştır: [Lisans Adı](URL)
-
-## Sıkça Sorulan Sorular (FAQ)
+## FAQ
 
 Sıkça sorulan soruları ve cevapları buraya ekleyebilirsiniz.
 
