@@ -1,10 +1,10 @@
 # Proje Adı
 
-Bu projenin kısa açıklaması buraya gelebilir.
+Unlike other infrastructures, it was built in a much more advanced and high-quality manner. As you know, a maximum of 50 bots can be added to the discord server. Therefore, thanks to the system I added, all botlist bots will be automatically removed from the server when they complete 30 days (Optional). If you want to learn more information, read the entire file. or you can take a look at the open source code.
 
-## Başlangıç
+## Beginning
 
-Bu bölümde projeyi başlatmak ve çalıştırmak için gerekli adımları bulabilirsiniz.
+Fill in the config.json and settings.json files accurately and correctly.
 
 ### Gereksinimler
 
