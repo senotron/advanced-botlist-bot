@@ -1,0 +1,21 @@
+{
+  "name": "advanced-botlist-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Senan Shukurzade",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.2",
+    "croxydb": "^0.0.24",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "sennur": "^1.0.1"
+  }
+}
