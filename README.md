@@ -9,7 +9,7 @@ Fill in the config.json and settings.json files accurately and correctly.
 
 ## License
 
-This project shared under the following license: [MIT](URL)
+This project shared under the following license: [MIT](LICENSE)
 
 ## FAQ
 
