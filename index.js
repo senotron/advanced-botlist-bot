@@ -666,6 +666,7 @@ client.on('interactionCreate', async interaction => {
 
 
 function checkBots() {
+    if(config.kickBots === false) return;
     const guild = client.guilds.cache.get(config.guildID);
     const bots = guild.members.cache.filter(member => member.user.bot);
     const thirtyDaysAgo = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000);
@@ -691,7 +692,6 @@ function checkBots() {
         if (botRoles.has(config.botRole) && bot.joinedAt <= thirtyDaysAgo) {
             bot.kick('Bot was kicked because 30 days were complete.');
             const botname = bot.user.username
-
             const kickedLog = client.channels.cache.get(kickLogChannel);
             const embed = new Discord.EmbedBuilder()
                 .setTitle("Bot kicked")
