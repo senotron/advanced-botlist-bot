@@ -1,0 +1,14 @@
+{
+    "botlistStatus": true,
+    "withButton": true,
+    "botlimit": 1,
+    "guildID": "Botlist server id",
+    "adminRole": "Approving/rejecting bots",
+    "requiredRole": "The role required for the user to add bots(If there is no required role, enter your server's ID)",
+    "botRole": "The role to be given to the bot",
+    "devRole": "The role given to the person who added the bot",
+    "addBotChannel": "Channel to add bots to",
+    "botLogChannel": "Channel to log bots",
+    "kickLogChannel": "Channel where bots that will be kicked out after 30 days will be logged",
+    "kickBots": true
+}
