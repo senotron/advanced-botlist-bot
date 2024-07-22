@@ -6,7 +6,7 @@ module.exports = {
     description: 'Advanced botlist bot • Senan Shukurzade',
     execute(message, args, client) {
 
-        if (!message.member.permissions.has("Administrator") || !message.member.roles.cache.has(config.adminRole)) return message.reply({
+        if (!message.member.roles.cache.has(config.adminRole) || !message.member.permissions.has("Administrator")) return message.reply({
             content: `You are not allowed to use this command.`
         });
         if (message.guild.id !== config.guildID) return message.reply({
