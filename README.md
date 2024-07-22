@@ -13,18 +13,18 @@ This project shared under the following license: [MIT](LICENSE)
 
 ## FAQ
 
-### Soru 1
+### Who developed the project?
 
 The project was entirely developed by [shukurzade](https://github.com/sshukurzade)
 
-### Soru 2
+### I like the project.How can i contribute for free?
 
-Cevap 2
+All you have to do is star the repo,subscribe to my YouTube channel or follow my github account :)
 
 
 ## Links
 
 - [Discord](https://discord.gg/eweRSKu3WG)
-- [Youtube](https://youtube.com/@sshukurzade)
+- [YouTube](https://youtube.com/@sshukurzade)
 - [My npmjs module](https://npmjs.com/package/sennur)
 - [N7SON Bot](https://bit.ly/whisperbot)
