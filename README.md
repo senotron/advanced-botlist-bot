@@ -15,7 +15,7 @@ This project shared under the following license: [MIT](LICENSE)
 
 ### Soru 1
 
-Cevap 1
+The project was entirely developed by [shukurzade](https://github.com/sshukurzade)
 
 ### Soru 2
 
