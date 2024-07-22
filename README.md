@@ -23,13 +23,10 @@ Cevap 1
 
 Cevap 2
 
-## İletişim
 
-Herhangi bir sorunuz veya geri bildiriminiz varsa bize şuradan ulaşabilirsiniz: [E-posta Adresi]
+## Links
 
-## Diğer Bağlantılar
-
-Faydalı diğer bağlantılar buraya eklenebilir.
-
-- [Örnek bağlantı 1](URL)
-- [Örnek bağlantı 2](URL)
+- [Discord](URL)
+- [Youtube](https://youtube.com/@sshukurzade)
+- [My npmjs module](https://npmjs.com/package/sennur)
+- [N7SON Bot](https://bit.ly/whisperbot)
