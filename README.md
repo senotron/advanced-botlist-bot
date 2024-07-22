@@ -13,8 +13,6 @@ This project shared under the following license: [MIT](LICENSE)
 
 ## FAQ
 
-Sıkça sorulan soruları ve cevapları buraya ekleyebilirsiniz.
-
 ### Soru 1
 
 Cevap 1
@@ -26,7 +24,7 @@ Cevap 2
 
 ## Links
 
-- [Discord](URL)
+- [Discord](https://discord.gg/eweRSKu3WG)
 - [Youtube](https://youtube.com/@sshukurzade)
 - [My npmjs module](https://npmjs.com/package/sennur)
 - [N7SON Bot](https://bit.ly/whisperbot)
